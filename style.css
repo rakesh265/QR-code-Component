@@ -42,12 +42,14 @@ body {
 
 .qr-heading {
     font-size: 22px;
-    font-weight: 700;
     margin-bottom: 10px; 
 }
 
 .qr-description {
     font-size: 16px; 
-    font-weight: 400;
     color: hsl(210, 10%, 40%); 
+}
+
+@media screen and (max-width : 375px)  {
+    
 }
